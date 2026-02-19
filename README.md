@@ -55,6 +55,20 @@
 
 ## 🚀 Featured Projects
 
+> ##### **Enterprise Patient Management Microservices System**  
+> • **Tech**: Java 21, Spring Boot 3, Spring Cloud Gateway, PostgreSQL, Apache Kafka, gRPC, Docker, AWS CDK, LocalStack, JUnit, RestAssured  
+> • **Highlights**:  
+>   - Designed a distributed microservices architecture with REST, gRPC, and event-driven communication.  
+>   - Implemented secure JWT-based authentication with centralized validation via API Gateway.  
+>   - Integrated Kafka for asynchronous event processing (Patient Created → Analytics Service).  
+>   - Built high-performance service-to-service communication using Protocol Buffers (gRPC). 
+>   - Containerized all services using Docker for cloud-ready deployment.
+>   - Provisioned cloud infrastructure (VPC, ECS, RDS, MSK, ALB) using AWS CDK (Infrastructure as Code).
+>   - Simulated full AWS environment locally using LocalStack.
+>   - Developed automated integration tests with JUnit 5 & RestAssured for end-to-end validation.
+>   - Production-ready layered architecture (Controller → Service → Repository → DTO). 
+> • **Repo**: [patient-management_project](https://github.com/AnwarAs0/patient-management)
+
 > ##### **Airline Reservation System**  
 > • **Tech**: Spring Boot, Hibernate, Thymeleaf, MySQL, Docker  
 > • **Highlights**:  
