@@ -66,8 +66,7 @@
 >   - Provisioned cloud infrastructure (VPC, ECS, RDS, MSK, ALB) using AWS CDK (Infrastructure as Code).
 >   - Simulated full AWS environment locally using LocalStack.
 >   - Developed automated integration tests with JUnit 5 & RestAssured for end-to-end validation.
->   - Production-ready layered architecture (Controller → Service → Repository → DTO).
->   - 
+>   - Production-ready layered architecture (Controller → Service → Repository → DTO). 
 > • **Repo**: [patient-management_project](https://github.com/AnwarAs0/patient-management)
 
 > ##### **Airline Reservation System**  
