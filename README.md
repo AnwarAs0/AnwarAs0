@@ -13,7 +13,7 @@
 
 - 🔭 I’m a passionate **Full Stack Java Developer** currently working at **Alfa Tech Industries**, building end-to-end E-commerce and CRM solutions.
 - 🌱 I’m actively **learning AI/ML** algorithms and **Spring Cloud** microservices to design scalable, resilient systems.
-- 💼 Over **1 year of hands-on experience** in Java, Spring Boot, Hibernate, Angular, and modern web technologies.
+- 💼 Over **2 year of hands-on experience** in Java, Spring Boot, Hibernate, Angular, and modern web technologies.
 - 🚀 I love optimizing performance: I’ve delivered enhancements that improved application throughput by **25–30%**.
 - 🎯 My goal is to architect **cloud-native**, **AI-powered** applications and contribute to open-source communities.
 - 📫 Connect with me: [connect.anwarsha@gmail.com](mailto:connect.anwarsha@gmail.com)
